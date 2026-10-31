@@ -1,0 +1,15 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
