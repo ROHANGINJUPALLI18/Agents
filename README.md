@@ -45,7 +45,7 @@ python main.py
   "agent_id": "agent1",
   "status": "success",
   "input_received": {
-    "prompt": "Analyze dataset and generate summary",
+    "prompt": "what is claude code , claude skills , connectors and pulgins ?",
     "context": {
       "user_id": "123"
     },
